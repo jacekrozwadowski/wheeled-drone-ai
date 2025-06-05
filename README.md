@@ -6,6 +6,8 @@
 
 <img src="./images/dron.jpg" width="400">
 
+---
+
 ### Drone elements
 
 Robot-Chassis-NP - four-wheeled robot chassis
@@ -39,3 +41,15 @@ Basket for 4 AA R6 batteries with cover and switch
 Distance sensor module TOF10120
 
 <img src="./images/modul-czujnika-odleglosci-tof10120.jpg" width="150">
+
+---
+
+### Wiring and pin layout
+
+wiring
+
+<img src="./images/wiring.png" width="400">
+
+pin layout
+
+<img src="./images/pin_layout.png" width="300">
