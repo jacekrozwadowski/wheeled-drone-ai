@@ -73,3 +73,14 @@ pip install -r requirements.txt
 source env/bin/activate
 python -m app.manual
 ```
+
+### Object detection - original model
+```bash
+# on development env
+python -m app.detection
+
+# on car env
+python -m app.detection --runtimeOnly
+```
+
+<img src="./images/detection.png" width="500">
