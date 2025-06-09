@@ -84,3 +84,15 @@ python -m app.detection --runtimeOnly
 ```
 
 <img src="./images/detection.png" width="500">
+
+
+---
+
+### References
+
+[Object detection with TFLite](https://github.com/alankrantas/TF-Lite-Python-Object-Objection/blob/main/TF_Lite_Object_Detection.py) <br>
+[Using Picamera2 with OpenCv](https://forums.raspberrypi.com/viewtopic.php?t=369522) <br>
+[Object detection with OpenCv](https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/raspberry_pi/detect.py) <br>
+[LiteRT](https://ai.google.dev/edge/litert/inference#run-c) <br>
+[Model ssd-mobilenet](https://www.kaggle.com/models/tensorflow/ssd-mobilenet-v1/tfLite/metadata) <br>
+[Raspberry PWM](https://sourceforge.net/p/raspberry-gpio-python/wiki/PWM/) <br>
