@@ -97,3 +97,5 @@ python -m app.detection --runtimeOnly
 [Model ssd-mobilenet](https://www.kaggle.com/models/tensorflow/ssd-mobilenet-v1/tfLite/metadata) <br>
 [Raspberry PWM](https://sourceforge.net/p/raspberry-gpio-python/wiki/PWM/) <br>
 [UPS HAT](https://files.waveshare.com/upload/d/d9/UPS_HAT.7z) <br>
+[PID](https://github.com/ivmech/ivPID) <br>
+
