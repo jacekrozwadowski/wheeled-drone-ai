@@ -53,3 +53,23 @@ wiring
 pin layout
 
 <img src="./images/pin_layout.png" width="300">
+
+---
+
+### Create python environment
+```bash
+# create env
+python3 -m venv --system-site-packages env
+
+# activate it
+source env/bin/activate
+
+# install packages
+pip install -r requirements.txt 
+```
+
+### Manual driving 
+```bash
+source env/bin/activate
+python -m app.manual
+```
